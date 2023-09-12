@@ -7,7 +7,7 @@
 
 import UIKit
 
-class ViewController: UIViewController {
+class SnapShotViewController: UIViewController {
 
     override func viewDidLoad() {
         super.viewDidLoad()
